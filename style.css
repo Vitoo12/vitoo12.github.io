@@ -1,0 +1,22 @@
+.jumbotron {
+    padding-top: 5rem;
+    background-color: #92e0ff;
+}
+
+#projects {
+    padding-top: 5rem;
+    background-color: #92e0ff ;
+}
+
+#about, #contact {
+    padding-top: 5rem;
+}
+
+.card {
+    width: 23rem;
+    margin: 0 auto;
+}
+
+a {
+    text-decoration: none;
+}
